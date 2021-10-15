@@ -84,3 +84,16 @@ body {
 .search-btn img {
     height: 100%;
 }
+
+.user-options {
+    height: 35px;
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+}
+
+.user-options .icon {
+    height: 80%;
+    margin-right: 20px;
+    cursor: pointer;
+}
